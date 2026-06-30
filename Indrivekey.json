@@ -12,6 +12,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "asaaaaa",
+        "key": "Bibekvip",
+        "expirydate": "03-07-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "488b2272a5dd4abf",
         "key": "Bibekvip",
         "expirydate": "03-07-2026",

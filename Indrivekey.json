@@ -15,6 +15,6 @@
         "device_id": "488b2272a5dd4abf",
         "key": "Bibekvip",
         "expirydate": "03-07-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]

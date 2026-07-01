@@ -11,22 +11,10 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-    {
-        "device_id": "98675d1066274040",
-        "key": "Bibekvip",
-        "expirydate": "03-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "98675d106aaaa64040",
-        "key": "rajkumar2",
-        "expirydate": "03-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "98675274040",
-        "key": "raj123",
-        "expirydate": "04-07-2026",
-        "Allowoffline": true
-    }
+   {
+    device_id": "98675d1066274040",
+        "key": "rajkumar123",
+        "expirydate": "05-07-2026",
+        "Allowoffline": false
+}
 ]   

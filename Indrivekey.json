@@ -18,9 +18,15 @@
         "Allowoffline": true
     },
     {
-        "device_id": "488b2272a5dd4abf",
-        "key": "Bibekvip",
+        "device_id": "98675d1066274040",
+        "key": "rajkumar2",
         "expirydate": "03-07-2026",
         "Allowoffline": true
-    }
-]
+    },
+    
+]{
+        "device_id": "488b2272a5dd4abf",
+        "key": "bibekvip",
+        "expirydate": "03-07-2026",
+        "Allowoffline": true
+}
